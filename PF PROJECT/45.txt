@@ -1,0 +1,6 @@
+NAME:Ali___Balance deducted:500___updated Balance:1605___Time:2024-01-13 12:30:44.666755
+NAME:Ali___Balance deducted:100___updated Balance:1502___Time:2024-01-13 12:50:39.822555
+NAME:Ali___Balance deducted:100___updated Balance:1399___Time:2024-01-13 13:09:19.891668
+NAME:Ali___Balance deducted:123___updated Balance:1273___Time:2024-01-13 15:24:42.317905
+NAME:Ali___Balance Incremented:100___updated Balance:1370___Time:2024-01-13 15:40:32.083143
+NAME:Ali___Balance Incremented:100___updated Balance:1467___Time:2024-01-13 15:46:17.423506

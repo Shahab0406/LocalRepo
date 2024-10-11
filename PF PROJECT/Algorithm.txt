@@ -1,0 +1,7 @@
+1)make a file in which put the data of the members registered in the bank
+2)take the acc number and check it with the data we have, if it is preasent there
+3)show the menus or ask the user for the task he wants to be performed
+4)if cash deposit add , if cash withdraw subtract , tansfer of money
+5)after the task done ask the user if they want the recipt 
+6)print the user's balance with there name
+7)ask the user if he/she want to continue the operations of want to exit

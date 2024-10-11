@@ -1,0 +1,15 @@
+NAME:Raheel __Balance deducted:100__updated Balance:6200___Time:2024-01-13 12:19:55.863298
+NAME:Raheel___Balance Incremented:300___updated Balance:6500___Time:2024-01-13 12:32:15.814352
+NAME:Raheel___Balance deducted:500___updated Balance:5997___Time:2024-01-13 12:34:39.368240
+NAME:Raheel___Balance deducted:100___updated Balance:5894___Time:2024-01-13 12:48:13.608638
+NAME:Raheel___Balance Incremented:100___updated Balance:6094___Time:2024-01-13 12:55:14.703302
+NAME:Raheel___Balance Incremented:69___updated Balance:6160___Time:2024-01-13 13:06:10.659862
+NAME:Raheel___Balance Incremented:100___updated Balance:6257___Time:2024-01-13 13:07:37.000976
+NAME:Raheel___Balance deducted:250___updated Balance:6004___Time:2024-01-13 13:17:29.949232
+NAME:Raheel___Balance Incremented:200___updated Balance:6201___Time:2024-01-13 15:24:42.317905
+NAME:Raheel___Balance deducted:1000___updated Balance:5198___Time:2024-01-13 15:24:42.317905
+NAME:Raheel___Balance Incremented:100___updated Balance:5295___Time:2024-01-13 15:38:48.260809
+NAME:Raheel___Balance deducted:1000___updated Balance:4292___Time:2024-01-13 15:40:32.083143
+NAME:Raheel___Balance deducted:500___updated Balance:3789___Time:2024-01-13 15:46:17.423506
+NAME:Raheel___Balance Incremented:100___updated Balance:4389___Time:2024-01-14 01:14:49.612731
+NAME:Raheel___Balance Incremented:200___updated Balance:4589___Time:2024-01-14 01:15:21.370024
